@@ -16,5 +16,23 @@
         "nombre": "Lámpara",
         "descripcion": "Una lámpara moderna para iluminar tu hogar.",
         "imagen": "images/lampara.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "credeza",
+        "descripcion": "credeza para modelar tu hogar.",
+        "imagen": "images/credeza.jpeg"
+    },
+    {
+        "id": 5,
+        "nombre": "docador",
+        "descripcion": "tocador para baño en tu hogar.",
+        "imagen": "images/docador.jpeg"
+    },
+    {
+        "id": 6,
+        "nombre": "mueble",
+        "descripcion": "mebles modernos para tu hogar.",
+        "imagen": "images/mueble.jpeg"
     }
 ]

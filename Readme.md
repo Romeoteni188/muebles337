@@ -4,6 +4,8 @@
 
 Esta aplicación de catálogo de productos de hogar es una aplicación web simple que muestra una lista de productos de hogar, incluyendo sofás, mesas de centro y lámparas. Los usuarios pueden ver detalles sobre cada producto, como su nombre, descripción e imagen. Esta aplicación es útil para exhibir productos y su información en línea.
 
+<span>![</span><span>Aquí la descripción de la imagen por si no carga</span><span>]</span><span>(</span><span>https://www.ambar-muebles.com/img/cms/cama-de-piel-artisan-marron-ambar-muebles.gif</span><span>)</span>
+
 ## Tecnologías Utilizadas
 
 La aplicación utiliza las siguientes tecnologías:
